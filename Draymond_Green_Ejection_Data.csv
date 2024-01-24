@@ -1,0 +1,20 @@
+"","month","day","year","opponent","with_steph","with_klay","loss","point_diff_at_ej","quarter"
+"1",12,25,2013,"Los Angeles Clippers",TRUE,TRUE,FALSE,-3,4
+"2",11,23,2013,"Portland Trailblazers",TRUE,TRUE,TRUE,8,3
+"3",6,11,2016,"Cleveland Cavaliers",TRUE,TRUE,FALSE,8,4
+"4",10,27,2017,"Washington Wizards",TRUE,TRUE,TRUE,14,2
+"5",12,30,2017,"Memphis Grizzlies",TRUE,TRUE,FALSE,-1,2
+"6",2,6,2018,"Oklahoma City Thunder",TRUE,TRUE,TRUE,-19,4
+"7",11,11,2019,"Utah Jazz",FALSE,FALSE,TRUE,-13,4
+"8",2,19,2019,"Pheonix Suns",TRUE,TRUE,FALSE,-3,3
+"9",1,4,2020,"Detroit Pistons",FALSE,FALSE,TRUE,-5,3
+"10",2,27,2020,"Los Angeles Lakers",FALSE,FALSE,TRUE,-5,2
+"11",2,20,2021,"Charlotte Hornets",FALSE,FALSE,TRUE,-6,3
+"12",5,1,2022,"Memphis Grizzlies",TRUE,FALSE,TRUE,2,4
+"13",3,20,2022,"San Antonio Spurs",FALSE,TRUE,TRUE,-6,3
+"14",1,4,2023," Detroit Pistons",FALSE,FALSE,TRUE,-12,4
+"15",11,14,2023,"Minnesota Timberwolves",FALSE,TRUE,TRUE,-4,4
+"16",11,11,2023,"Cleveland Cavaliers",TRUE,TRUE,TRUE,-10,3
+"17",4,17,2023,"Sacramento Kings",TRUE,TRUE,TRUE,0,1
+"18",12,14,2023,"Indiana Pacers",TRUE,TRUE,TRUE,-5,4
+"19",12,12,2023,"Pheonix Suns",TRUE,TRUE,TRUE,5,3

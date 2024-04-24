@@ -11,12 +11,12 @@ Hopefully this data can be of some use to other people as well!
 
 A few notes:
 
-Being on the bench at time of ejection counts as playing, as long as they were available to be played at the time of ejection.
+Being on the bench at the time of ejection counts as playing, as long as they were available to be played at the time of ejection.
 Point differential is simply at time of ejection, not the point differential at the end of the game! I intended for the "loss" column to be the metric for overall impact on the team.
 
 
-Columnns:
-month	day	year	opponent	with_steph	with_klay	loss	point_diff_at_ej	quarter
+**Columns:**
+month,	day,	year,	opponent,	with_steph,	with_klay,	loss,	point_diff_at_ej,	quarter
 
 Dimensions:
 9 x 19

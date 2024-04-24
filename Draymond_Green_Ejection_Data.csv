@@ -12,9 +12,10 @@
 "11",2,20,2021,"Charlotte Hornets",FALSE,FALSE,TRUE,-6,3
 "12",5,1,2022,"Memphis Grizzlies",TRUE,FALSE,TRUE,2,4
 "13",3,20,2022,"San Antonio Spurs",FALSE,TRUE,TRUE,-6,3
-"14",1,4,2023," Detroit Pistons",FALSE,FALSE,TRUE,-12,4
-"15",11,14,2023,"Minnesota Timberwolves",FALSE,TRUE,TRUE,-4,4
-"16",11,11,2023,"Cleveland Cavaliers",TRUE,TRUE,TRUE,-10,3
-"17",4,17,2023,"Sacramento Kings",TRUE,TRUE,TRUE,0,1
-"18",12,14,2023,"Indiana Pacers",TRUE,TRUE,TRUE,-5,4
+"14",12,14,2022,"Indiana Pacers",TRUE,TRUE,TRUE,-5,4
+"15",1,4,2023," Detroit Pistons",FALSE,FALSE,TRUE,-12,4
+"16",11,14,2023,"Minnesota Timberwolves",FALSE,TRUE,TRUE,-4,4
+"17",11,11,2023,"Cleveland Cavaliers",TRUE,TRUE,TRUE,-10,3
+"18",4,17,2023,"Sacramento Kings",TRUE,TRUE,TRUE,0,1
 "19",12,12,2023,"Pheonix Suns",TRUE,TRUE,TRUE,5,3
+"20",3,28,2024,"Orlando Magic",TRUE,TRUE,FALSE,0,1

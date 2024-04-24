@@ -19,4 +19,4 @@ Point differential is simply Warriors points - Opponents points AT TIME OF EJECT
 month,	day,	year,	opponent,	with_steph,	with_klay,	loss,	point_diff_at_ej,	quarter
 
 Dimensions:
-9 x 19
+9 x 20
